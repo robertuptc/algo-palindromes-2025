@@ -2,6 +2,7 @@
 
 var pal = require("./palindrome");
 
+
 console.log(pal.palindrome('racecar') === true);
 console.log(pal.palindrome('Noon') === true);
 console.log(pal.palindrome('ciVic') === true);
